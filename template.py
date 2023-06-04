@@ -21,8 +21,8 @@ list_of_files=[
     "src/kafka_producer/json_producer.py",
     "producer_main.py",
     "consumer_main.py",
-    "sample_data/kafka-sensor-topic"
-
+    "Dockerfile",
+    "start.sh"
 ]
 
 for filepath in list_of_files:
